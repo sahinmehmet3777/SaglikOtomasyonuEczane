@@ -19,3 +19,5 @@ Different screens can be added to the boss and employees, and the bosses will be
 In this way, if there is a drug in a different pharmacy that is not available in one pharmacy, referrals will be made easily.
 Stock reduction in product sales and stock increases in returns will be made automatically.
 I used about 40 tables on SQL. If you want to listen in detail, you can contact us.
+
+<img src="http://url/to/img.png](https://github.com/sahinmehmet3777/SaglikOtomasyonuEczane/blob/master/01.PNG)">
